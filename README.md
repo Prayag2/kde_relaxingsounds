@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Prayag2/kde_relaxingsounds/blob/main/assets/logo.png" width=100/>
+  <img src="https://github.com/Prayag2/kde_relaxingsounds/blob/master/assets/logo.png" width=100/>
   <h2 align="center">Relaxing Sounds for KDE</h2>
   <p align="center">A simple widget that plays relaxing sounds. You can use it while studying, sleeping or working! You can even add your own sounds!</center>
 </p>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Prayag2/kde_relaxingsounds/blob/main/assets/ss_1.png"/>
+  <img src="https://github.com/Prayag2/kde_relaxingsounds/blob/master/assets/ss_1.png"/>
 </p>
 
 ## Installation

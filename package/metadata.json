@@ -1,0 +1,22 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Prayag Jain",
+                "Email": "prayagjain2@gmail.com"
+            }
+        ],
+        "Category": "Multimedia",
+        "Description": "Relaxing sounds for people who love nature! You can listen to them while working, sleeping or studying!",
+        "Icon": "emblem-music-symbolic",
+        "Id": "com.github.prayag2.relaxingsounds",
+        "License": "GPLv3",
+        "Name": "Relaxing Sounds",
+        "ServiceTypes": ["Plasma/Applet"],
+        "Version": "0.2",
+        "Website": "https://github.com/prayag2/kde_relaxingsounds"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-Mainscript": "ui/main.qml",
+    "X-Plasma-NotificationArea": "true"
+}
